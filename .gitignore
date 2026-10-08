@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller artifacts
+build/
+dist/
+*.spec
+
+# Editor / tool state
+.omo/
+.vscode/
+.idea/
+
+# Slots (user data, generated at runtime)
+slots/
